@@ -9,7 +9,7 @@
 # Game Introduction
 - 《沙羅曼蛇》是一款經典的飛行射擊遊戲（STG），玩家操控戰機在充滿異形生物與機械要塞的空間中穿梭。本遊戲有「能量膠囊」的升級機制，玩家可透過收集道具強化火力，如：發射雷射、提升移動速度等，藉此打倒眾多敵人賺取分數。
 
-[遊戲連結](https://youtu.be/XENla8M3910?si=odsjpmxuRFgF3s-h)
+影片連結:(https://www.youtube.com/watch?v=DzQjrn5XWYM)
 
 # Development timeline
 
